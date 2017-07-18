@@ -1,0 +1,21 @@
+{
+  "_class": "document",
+  "do_objectID": "d5077140-6bef-11e7-a653-5db151467351",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [],
+    "gradients": [],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {}
+    },
+    "images": []
+  },
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": []
+  }
+}
